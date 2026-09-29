@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build files
+build/
+dist/
+*.o
+*.obj
+*.exe
+
+# Disk/evidence images
+*.img
+*.raw
+*.dd
+
+# Recovery output
+recovery_output/
+
+# Generated reports
+reports/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
